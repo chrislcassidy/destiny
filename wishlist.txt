@@ -28,7 +28,8 @@ https://destinytracker.com/destiny-2/db/items/640114618?perks=1636108362,1820235
 https://destinytracker.com/destiny-2/db/items/1621657423?perks=715195141,2450788523,3365897133,4198761574,2323986101,2203506848,0,2285418970
 
 // Wolftone Draw
-https://destinytracker.com/destiny-2/db/items/3472875143?perks=715195141,0,0,951095735,2848615171
+dimwishlist:item=3472875143&perks=951095735,2848615171
+//https://destinytracker.com/destiny-2/db/items/3472875143?perks=715195141,0,0,951095735,2848615171
 
 //******************************
 // Fusion Rifles
