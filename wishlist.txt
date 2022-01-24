@@ -3,7 +3,7 @@
 //******************************
 
 // Age-Old Bond
-https://destinytracker.com/destiny-2/db/items/601592879?perks=1019291327,1359896290,3425386926,208045062,2323986101,384158423,0,22854189700
+https://destinytracker.com/destiny-2/db/items/601592879?perks=1019291327,1359896290,3425386926
 
 // Chroma Rush
 https://destinytracker.com/destiny-2/db/items/1119734784?perks=878286503,1820235745,3425386926,1854244375,666440382,384158423,0,2302094943
