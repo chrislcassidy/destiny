@@ -1,176 +1,299 @@
 //******************************
-// Auto Rifles 
+// Auto Rifles
 //******************************
 
 // Age-Old Bond
-dimwishlist:item=601592879&perks=1482024992,1885400500,1359896290,3425386926
+dimwishlist:item=601592879&perks=2387244414,2213355989#notes:Generic PvE. I really like shooting this gun. Zen Moment on it is nice for the feel.
+dimwishlist:item=601592879&perks=2387244414,2848615171#notes:Generic PvE. I really like shooting this gun. Zen Moment on it is nice for the feel and Dragonfly is fun.
+dimwishlist:item=601592879&perks=1354429876,3425386926#notes:Generic PvE. I really like shooting this gun. For getting the most out of the damage buff from Rampage, Fourth Time's the Charm is the best pairing to keep rounds in the magazine longer.
+dimwishlist:item=601592879&perks=2387244414,3425386926#notes:Generic PvE. I really like shooting this gun. Zen Moment on it is nice for the feel and Rampage is probably it's best damage perk.
+
+// Braytech Werewolf
+dimwishlist:item=528834068&perks=1359896290,1546637391#notes:Generic PvE. Could excel in witch queen with auto rifle champion mod.
 
 // Chroma Rush
-dimwishlist:item=1119734784&perks=1392496348,106909392,1820235745,3425386926
+dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs really well with rampage.
+
+// Chrysura Melo
+dimwishlist:item=1337707096&perks=1359896290,4104185692#notes:End Game PvE. Perks are end game. May or may not be overly useful, but probably will do alright with the Auto Rifle champion mod in Witch Queen.
+dimwishlist:item=1337707096&perks=1359896290,2458213969#notes:Generic PvE. This is probably the best roll for clearing trash in lower level content.
 
 // Gnawing Hunger
-dimwishlist:item=821154603&perks=3661387068,3230963543,1820235745,3523296417
-dimwishlist:item=821154603&perks=3661387068,3230963543,1820235745,3425386926
-dimwishlist:item=821154603&perks=3661387068,3230963543,1820235745,4082225868
+dimwishlist:item=821154603&perks=1820235745,3523296417#notes:Generic PvE. Subsistence is always a good time in lower difficulty content.
+dimwishlist:item=821154603&perks=1820235745,3425386926#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs really well with rampage.
 
 // Scathelocke
-dimwishlist:item=602618796&perks=1392496348,3177308360,1820235745,3425386926
+dimwishlist:item=602618796&perks=1820235745,3425386926#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs really well with rampage.
+dimwishlist:item=602618796&perks=4071163871,1774574192#notes:End Game PvE, possibly. Auto rifle champion mod in Witch Queen and Osmosis for match game could make this viable in harder content.
+
+// Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:Generic PvE. Feels good, but meh. Could go well with a warmind cell build.
+
+// The Last Breath
+dimwishlist:item=507038823&perks=1359896290,4104185692#notes:End Game PvE perks. Questionable effectiveness.
+dimwishlist:item=507038823&perks=3523296417,11612903#notes:Generic PvE. Great for grenade focused builds.
+dimwishlist:item=507038823&perks=1820235745,11612903#notes:Generic PvE. Subsistence is always a good time in lower difficulty content.
 
 // Tigerspite
-dimwishlist:item=640114618&perks=4090651448,3230963543,1168162263,2846385770
-dimwishlist:item=640114618&perks=839105230,1885400500,1820235745,4082225868
+dimwishlist:item=640114618&perks=3643424744,4104185692#notes:Generic PvE. Could excel in witch queen with auto rifle champion mod.
+dimwishlist:item=640114618&perks=1820235745,4082225868#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and swashbuckler is my favorite pairing with it when Rampage is not an option.
 
 //******************************
-// Bows 
+// Bows
 //******************************
 
 // Biting Winds
-dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,3365897133
+dimwishlist:item=1621657423&perks=2450788523,3365897133#notes:Generic PvE. Explosive Head is a go to for bows, pairs well with Killing Wind or Rapid Hit.
+dimwishlist:item=1621657423&perks=247725512,3365897133#notes:Generic PvE. Explosive Head is a go to for bows, pairs well with Killing Wind or Rapid Hit.
+
+// Imperial Needle
+dimwishlist:item=3460122497&perks=951095735,4104185692#notes:Generic PvE, with end game potential. Frenzy is a great end game perk. Impulse Amplifier and Archer's Tempo are probably the 2 best column 3 perks on any bow. Killing Wind on this bow is probably 3rd choice for column 3.
+dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Generic PvE, with end game potential. Frenzy is a great end game perk. Impulse Amplifier and Archer's Tempo are probably the 2 best column 3 perks on any bow. Killing Wind on this bow is probably 3rd choice for column 3.
+dimwishlist:item=3460122497&perks=2450788523,4104185692#notes:Generic PvE, with end game potential. Frenzy is a great end game perk. Impulse Amplifier and Archer's Tempo are probably the 2 best column 3 perks on any bow. Killing Wind on this bow is probably 3rd choice for column 3.
+
+// Tyranny of Heaven
+dimwishlist:item=2721249463&perks=908147344,3365897133#notes:Generic PvE. Column 3 perks are not great, but I'd avoid Moving Target. Column 4 perks are all good except for Snapshot Sights. That being said, I'd go with Explosive Payload, then Dragonfly. 
+dimwishlist:item=2721249463&perks=201365942,3365897133#notes:Generic PvE. Column 3 perks are not great, but I'd avoid Moving Target. Column 4 perks are all good except for Snapshot Sights. That being said, I'd go with Explosive Payload, then Dragonfly. 
+dimwishlist:item=2721249463&perks=201365942,2848615171#notes:Generic PvE. Column 3 perks are not great, but I'd avoid Moving Target. Column 4 perks are all good except for Snapshot Sights. That being said, I'd go with Explosive Payload, then Dragonfly. 
+dimwishlist:item=2721249463&perks=908147344,2848615171#notes:Generic PvE. Column 3 perks are not great, but I'd avoid Moving Target. Column 4 perks are all good except for Snapshot Sights. That being said, I'd go with Explosive Payload, then Dragonfly. 
+dimwishlist:item=2721249463&perks=908147344,3425386926#notes:Generic PvE. Column 3 perks are not great, but I'd avoid Moving Target. Column 4 perks are all good except for Snapshot Sights. That being said, I'd go with Explosive Payload, then Dragonfly. 
+dimwishlist:item=2721249463&perks=201365942,3425386926#notes:Generic PvE. Column 3 perks are not great, but I'd avoid Moving Target. Column 4 perks are all good except for Snapshot Sights. That being said, I'd go with Explosive Payload, then Dragonfly. 
 
 // Wolftone Draw
-//dimwishlist:item=3472875143&perks=3371775011,3827198035,951095735,2848615171
-//dimwishlist:item=3472875143&perks=1196733167,3429800428,951095735,2848615171
-dimwishlist:item=3472875143&perks=951095735,2848615171
+dimwishlist:item=3472875143&perks=951095735,2848615171#notes:Generic PvE. This is maybe my favorite legendary bow currently. Impulse Amplifier is the best perk in column 3, and Dragonfly is fun.
+dimwishlist:item=3472875143&perks=951095735,4104185692#notes:End Game PvE. This is maybe my favorite legendary bow currently. Impulse Amplifier is the best perk in column 3, and Frenzy is it's best end game perk. Probably only end game worthy if you specifically need a legendary bow.
 
 //******************************
-// Fusion Rifles
+// Grenade Launchers
 //******************************
 
-// Cartesian Coordinate
-dimwishlist:item=2481881293&perks=2405638015,689005463,1556840489,1546637391
+// Berenger's Memory
+dimwishlist:item=407621213&perks=2284787283,3523296417#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades and instantly reloading by throwing a grenade keeps the dps going. You really want Spike Grenades for this roll, because the main purpose is dps. That being said, you're probably better off with a sword or rocket launcher for dps. I see grenade launchers as more useful in clearing groups of trash enemies, and a launcher that can roll Chain Reaction is better for
 
 //******************************
-// Handcannons 
+// Hand Cannons
 //******************************
+
+// Annual Skate
+dimwishlist:item=6857689&perks=3400784728,1954620775#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Beat pairing here is probably triple tap to keep extra rounds in the mag.
+dimwishlist:item=6857689&perks=1168162263,2848615171#notes:Generic PvE. Dragonfly is fun, and since we're trying to proc Dragonfly with precision kills we might as well have Outlaw on it for the super fast reload.
+dimwishlist:item=6857689&perks=1168162263,2848615171#notes:Generic PvE. If Outlaw and Dragonfly are both available on a gun, I'm going to want that roll.
+
+// Bottom Dollar
+dimwishlist:item=1046651176&perks=247725512,3038247973#notes:Generic PvE. Potentially End Game capable. Timed Payload and explosive payload are two of the best hand cannon perks. Just like with scout rifles, Rapid Hit is a great pairing with it.
+dimwishlist:item=1046651176&perks=1168162263,2848615171#notes:Generic PvE. If Outlaw and Dragonfly are both available on a gun, I'm going to want that roll.
 
 // Eyasluna
-dimwishlist:item=235827225&perks=1926090095,3230963543,2846385770,124408337
-dimwishlist:item=235827225&perks=1926090095,3230963543,3108830275,124408337
+dimwishlist:item=235827225&perks=2846385770,124408337#notes:End Game PvE. Excellent synergy with stasis subclasses. While Rapid Hit is good for stability and reload, Rangefinder is good for increasing effective range for just aiming down the sights.
+dimwishlist:item=235827225&perks=247725512,124408337#notes:End Game PvE. Excellent synergy with stasis subclasses. While Rapid Hit is good for stability and reload, Rangefinder is good for increasing effective range for just aiming down the sights.
+dimwishlist:item=235827225&perks=1168162263,124408337#notes:End Game PvE. Excellent synergy with stasis subclasses. Since we're targeting precision kills for Headstone we might as well have Outlaw on it for the super fast reload.
 
 // Igneous Hammer
-dimwishlist:item=2351180975&perks=4090651448,3230963543,1168162263,957782887
+dimwishlist:item=2351180975&perks=247725512,4049631843#notes:End Game PvE perks. Questionable effectiveness, although this gun has a pretty good feel to it.
+dimwishlist:item=2351180975&perks=3643424744,4049631843#notes:End Game PvE perks. Questionable effectiveness, although this gun has a pretty good feel to it.
+dimwishlist:item=2351180975&perks=1168162263,957782887#notes:Generic PvE. This gun has a pretty good feel. Snapshot Sights makes for a pretty snappy ADS feel, and Outlaw is a go to perk for overcoming slow Hand Cannon reload times.
+dimwishlist:item=2351180975&perks=1168162263,3511092054#notes:Generic PvE. This gun has a pretty good feel. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost.
+dimwishlist:item=2351180975&perks=1168162263,3425386926#notes:Generic PvE. This gun has a pretty good feel. Rampage to bump the damage even higher, and Outlaw is a go to perk for overcoming slow Hand Cannon reload times.
 
 // Judgment
-dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,11612903
-dimwishlist:item=1476654960&perks=1926090095,3230963543,3523296417,1954620775
+dimwishlist:item=1476654960&perks=3523296417,11612903#notes:Generic PvE. Great for grenade focused builds.
+dimwishlist:item=1476654960&perks=3523296417,1954620775#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. 3rd column perks are not great here, so we'll go for the grenade regen on kills.
 
 // Nation of Beasts
-dimwishlist:item=654370424&perks=1482024992,3177308360,1168162263,3038247973
-dimwishlist:item=654370424&perks=1482024992,3177308360,1168162263,3425386926
+dimwishlist:item=654370424&perks=1168162263,3038247973#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Outlaw will likely get under cut by kills from the explosive, but it should work enough. Zen Moment is probably the best column 3 perk with Explosive Payload.
+dimwishlist:item=654370424&perks=2010801679,3038247973#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Zen Moment is probably the best column 3 perk with Explosive Payload, but the extra rounds from Ambitious Assassin should still be pretty good.
+dimwishlist:item=654370424&perks=2387244414,3038247973#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Zen Moment is probably the best column 3 perk with Explosive Payload.
+dimwishlist:item=654370424&perks=1168162263,2848615171#notes:Generic PvE. If Outlaw and Dragonfly are both available on a gun, I'm going to want that roll.
+
+// The Palindrome
+dimwishlist:item=432476743&perks=3643424744,4049631843#notes:End Game PvE perks. Questionable effectiveness.
+dimwishlist:item=432476743&perks=1168162263,3425386926#notes:Generic PvE. Rampage to bump the damage even higher, and Outlaw is a go to perk for overcoming slow Hand Cannon reload times.
+
+// True Prophecy
+dimwishlist:item=2742838700&perks=3643424744,1954620775#notes:End Game PvE perks. Questionable effectiveness.
 
 // Vulpecula
-dimwishlist:item=1622998472&perks=1392496348,3177308360,1168162263,124408337
+dimwishlist:item=1622998472&perks=1168162263,124408337#notes:End Game PvE. Excellent synergy with stasis subclasses. Since we're targeting precision kills for Headstone we might as well have Outlaw on it for the super fast reload.
+dimwishlist:item=1622998472&perks=2450788523,3038247973#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Killing Wind is probably the best column 3 perk with Explosive Payload.
+dimwishlist:item=1622998472&perks=1168162263,3038247973#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Outlaw will likely get under cut by kills from the explosive, but it should work enough. Zen Moment is probably the best column 3 perk with Explosive Payload.
+
+// Waking Vigil
+dimwishlist:item=334171687&perks=247725512,1546637391#notes:End Game PvE perks. Questionable effectiveness.
 
 //******************************
 // Machine Guns
 //******************************
 
 // Shattered Cipher
-dimwishlist:item=2434225986&perks=1840239774,3230963543,2869569095,3108830275
+dimwishlist:item=2434225986&perks=2869569095,3425386926#notes:Generic PvE. Machine guns aren't great right now, even though they can be fun to shoot. In end game content they can be used for clearing trash enemies, so we'll go with Rampage as the damage perk.
+dimwishlist:item=2434225986&perks=2869569095,3108830275#notes:Generic PvE. Machine guns aren't great right now, even though they can be fun to shoot. In end game content they can be used for clearing trash enemies and since healing is so valuable, we'll go with Unrelenting instead of a damage perk.
 
 //******************************
 // Pulse Rifles
 //******************************
 
 // BxR-55 Battler
-dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,454085387
-dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,11612903
+dimwishlist:item=2708806099&perks=1428297954,454085387#notes:Generic PvE. Only weapon with Blunt Execution Rounds. Perpetual Motion makes this gun feel real good.
+dimwishlist:item=2708806099&perks=3523296417,11612903#notes:Generic PvE. Great for grenade focused builds.
 
 // Legal Action II
-dimwishlist:item=3409645497&perks=4090651448,3177308360,1570042021,3425386926
+dimwishlist:item=3409645497&perks=2450788523,1774574192#notes:Generic PvE. Don't love this one, but it could potentially get some higher end play with Osmosis for Match Game.
+dimwishlist:item=3409645497&perks=3436462433,3592538738#notes:Generic PvE. Wellspring and Surplus work really well together, but this one's viability exists outside of End Game content.
 
 // Stars in Shadow
-dimwishlist:item=2050789284&perks=839105230,3230963543,1168162263,460017080
+dimwishlist:item=2050789284&perks=1168162263,2848615171#notes:Generic PvE. If Outlaw and Dragonfly are both available on a gun, I'm going to want that roll.
+
+// The Messenger
+dimwishlist:item=3658188704&perks=247725512,4049631843#notes:End Game PvE. These perks are top tier for end game content, and this has some potential there.
+dimwishlist:item=3658188704&perks=2387244414,3047969693#notes:Generic PvE. The messenger is the only weapon that rolls with Desperado, and once active this Gun does a super fast shoot. Zen Moment is probably the best pair for Desperado to keep the gun under control when the rate of fire shoots up.
+dimwishlist:item=3658188704&perks=2450788523,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost.
+
+// The Time-Worn Spire
+dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs really well with rampage.
+dimwishlist:item=3593598010&perks=1645158859,11551321#notes:Generic PvE. Iron Grip and Under Pressure will help rein in the stability, which can be a problem on rapid fire pulse rifles.
+
+//******************************
+// Rocket Launchers
+//******************************
+
+// Ascendancy
+dimwishlist:item=725408022&perks=2010801679,3194351027#notes:End Game PvE. Curated roll. One of the best legendary rocket launchers available. If Bungie follows the pattern of the past few seasons, Witch Queen should have an artifact mod or 2 that will make this even better.
+
+// The Hothead
+dimwishlist:item=4255171531&perks=3977735242,2284787283#notes:End Game PvE. Potential dps viability alongside a Gjallarhorn user.
 
 //******************************
 // Scout Rifles
 //******************************
 
 // Contingency Plan
-dimwishlist:item=577528837&perks=1482024992,3230963543,3436462433,3511092054
-dimwishlist:item=577528837&perks=839105230,3230963543,1820235745,3511092054
-dimwishlist:item=577528837&perks=1482024992,3177308360,1820235745,4104185692
+dimwishlist:item=577528837&perks=280464955,4049631843#notes:End Game PvE perks. Questionable effectiveness.
+dimwishlist:item=577528837&perks=3436462433,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost.
+
+// Dead Man's Tale
+dimwishlist:item=3654674561&perks=1546637391,4259401308#notes:End Game PvE. DMT is possibly the best scout in the game. Witch queen will have a scout champion mod, and with Vorpal for boss dps this thing should put in some work. Max out stability to make precision hits easier to land.
+dimwishlist:item=3654674561&perks=1546637391,990298390#notes:End Game PvE. DMT is possibly the best scout in the game. Witch queen will have a scout champion mod, and with Vorpal for boss dps this thing should put in some work. Max out stability to make precision hits easier to land.
+dimwishlist:item=3654674561&perks=1546637391,3465198467#notes:End Game PvE. DMT is possibly the best scout in the game. Witch queen will have a scout champion mod, and with Vorpal for boss dps this thing should put in some work. Max out stability to make precision hits easier to land.
+dimwishlist:item=3654674561&perks=1546637391,1067908860#notes:End Game PvE. DMT is possibly the best scout in the game. Witch queen will have a scout champion mod, and with Vorpal for boss dps this thing should put in some work. Max out stability to make precision hits easier to land.
+
+// Hung Jury SR4
+dimwishlist:item=4281371574&perks=247725512,4049631843#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles, but One for All is good end game substitute for Explosive Payload. This is even better with Witch Queen featuring a scout rifle champion mod.
+dimwishlist:item=4281371574&perks=247725512,3038247973#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles, but One for All is good end game substitute for Explosive Payload. This is even better with Witch Queen featuring a scout rifle champion mod.
+dimwishlist:item=4281371574&perks=247725512,3824105627#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles, but Firefly is an interesting substitute for Explosive Payload. While it does require a kill to proc, it's basically Outlaw and Dragonfly (on a kinetic weapon, no less) rolled into one perk. This is even better with Witch Queen featuring a scout rifle champion mod.
+dimwishlist:item=4281371574&perks=1820235745,3824105627#notes:Generic PvE.  Since both perks require kills to proc, this roll won't be ideal for end game content. However, this roll basically has 3 of my favorite perks (Outlaw, Dragonfly, and Subsistence) in one gun. This could potentially find use in higher level content with Witch Queen featuring a scout rifle champion mod.
+
+// Night Watch
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles.
+dimwishlist:item=3504336176&perks=3643424744,3038247973#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles, but Overflow is a decent end game substitute for Rapid Hit. This is even better with Witch Queen featuring a scout rifle champion mod.
 
 // Servant Leader
-dimwishlist:item=1107446438&perks=1392496348,3177308360,1354429876,3425386926
+dimwishlist:item=1107446438&perks=247725512,4049631843#notes:End Game PvE perks. This is one of my favorite socut rifles to shoot, and with the scout rifle champion mod coming in Witch Queen, this could be a pretty solid choice.
+dimwishlist:item=1107446438&perks=247725512,4104185692#notes:End Game PvE perks. This is one of my favorite socut rifles to shoot, and with the scout rifle champion mod coming in Witch Queen, this could be a pretty solid choice.
+dimwishlist:item=1107446438&perks=247725512,1774574192#notes:End Game PvE perks. This is one of my favorite socut rifles to shoot, and with the scout rifle champion mod coming in Witch Queen, this could be a pretty solid choice. While there are better rolls for overall damage (Frenzy and One for All), Osmosis makes this viable in match game scenarios.
 
 // Vouchsafe
-dimwishlist:item=3242168339&perks=1482024992,3177308360,247725512,3038247973
-dimwishlist:item=3242168339&perks=1482024992,3177308360,1168162263,2848615171
-dimwishlist:item=3242168339&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=3242168339&perks=247725512,3038247973#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles.
 
 //******************************
 // Shotguns
 //******************************
 
 // Fractethyst
-dimwishlist:item=3184681056&perks=4090651448,791862061,1556840489,11612903
+dimwishlist:item=3184681056&perks=1556840489,2360754333#notes:Meh. Not a ton of good perks here.
 
 // Matador 64
-dimwishlist:item=2563012876&perks=1047830412,791862061,1556840489,2679249093
+dimwishlist:item=2563012876&perks=1556840489,2679249093#notes:Generic PvE, unless you have a broken build like the Titan hammer build or the Hunter combination blow build. With a huge damage melee build this could easily be end game worthy.
 
 // Wastelander M5
-dimwishlist:item=1679868061&perks=1047830412,791862061,1556840489,2679249093
-dimwishlist:item=1679868061&perks=1482024992,791862061,1820235745,2450788523
+dimwishlist:item=1679868061&perks=1820235745,2450788523#notes:Generic PvE. Subsistence on a shotgun is super fun for cleaning up trash.
+dimwishlist:item=1679868061&perks=1556840489,2679249093#notes:Generic PvE, unless you have a broken build like the Titan hammer build or the Hunter combination blow build. With a huge damage melee build this could easily be end game worthy.
 
 //******************************
 // Sidearms
 //******************************
 
+// Brass Attacks
+dimwishlist:item=2121785039&perks=247725512,4049631843#notes:End Game PvE perks. Questionable effectiveness.
+
 // Farewell
-dimwishlist:item=541188001&perks=202670084,3230963543,1820235745,4104185692
+dimwishlist:item=541188001&perks=1820235745,4104185692#notes:Best roll I see, but this gun does nothing for me.
 
 // Peacebond
-dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,3523296417
-dimwishlist:item=829330711&perks=4090651448,3177308360,2846385770,124408337
+dimwishlist:item=829330711&perks=1645158859,124408337#notes:Generic PvE. If you can find a solid stasis build to use with it, could be End Game usable. I really like the feel of Peacebond with high stability. The best perk on the gun is Headstone, and just about any column 3 perk is fine with it. 
+dimwishlist:item=829330711&perks=2846385770,124408337#notes:Generic PvE. If you can find a solid stasis build to use with it, could be End Game usable. I really like the feel of Peacebond with high stability. The best perk on the gun is Headstone, and just about any column 3 perk is fine with it. 
+dimwishlist:item=829330711&perks=1820235745,124408337#notes:Generic PvE. If you can find a solid stasis build to use with it, could be End Game usable. I really like the feel of Peacebond with high stability. The best perk on the gun is Headstone, and just about any column 3 perk is fine with it. 
+dimwishlist:item=829330711&perks=2450788523,124408337#notes:Generic PvE. If you can find a solid stasis build to use with it, could be End Game usable. I really like the feel of Peacebond with high stability. The best perk on the gun is Headstone, and just about any column 3 perk is fine with it. 
+dimwishlist:item=829330711&perks=2946784966,124408337#notes:Generic PvE. If you can find a solid stasis build to use with it, could be End Game usable. I really like the feel of Peacebond with high stability. The best perk on the gun is Headstone, and just about any column 3 perk is fine with it. 
+dimwishlist:item=829330711&perks=972757866,124408337#notes:Generic PvE. If you can find a solid stasis build to use with it, could be End Game usable. I really like the feel of Peacebond with high stability. The best perk on the gun is Headstone, and just about any column 3 perk is fine with it. 
 
 // Punching Out
-dimwishlist:item=378498222&perks=3661387068,1885400500,2846385770,4082225868
-dimwishlist:item=378498222&perks=3661387068,679225683,706527188,4082225868
-dimwishlist:item=378498222&perks=3661387068,1885400500,1820235745,4082225868
-dimwishlist:item=378498222&perks=3661387068,679225683,706527188,4082225868#notes:Second choice Swashbuckler roll. Subsistence would be preferable as 3rd column perk.
+dimwishlist:item=378498222&perks=1820235745,4082225868#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs pretty well with Swashbuckler for extra damage. Max out stability to make this one feel really good.
+dimwishlist:item=378498222&perks=3643424744,4104185692#notes:End Game PvE perks. Questionable effectiveness. Max out stability to make this one feel really good.
+dimwishlist:item=378498222&perks=3643424744,3108830275#notes:End Game PvE perks. Questionable effectiveness. Max out stability to make this one feel really good.
 
 // Spoiler Alert
-dimwishlist:item=2588048270&perks=445755707,1885400500,2779035018,4082225868
+dimwishlist:item=2588048270&perks=3436462433,1774574192#notes:Generic PvE. Oh look, another sidearm. It's one saving grace is that Osmosis had potential to be useful in match game. But there are plenty of better weapons for End Game content. 
 
 //******************************
 // Sniper Rifles
 //******************************
 
 // 1000 Yard Stare
-dimwishlist:item=4164201232&perks=1482024992,3230963543,3400784728,3523296417
+dimwishlist:item=4164201232&perks=3400784728,3513791699#notes:I don't know. It's a sniper. This build is aimed at trying to conserve ammo. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
 
 //******************************
-// Submachine Gun
+// Submachine Guns
 //******************************
 
 // Extraordinary Rendition
-dimwishlist:item=1097616550&perks=3661387068,3177308360,1820235745,3425386926
+dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:End Game PvE. End game perks here combined with smg champion mod in Witch Queen could make this viable.
+dimwishlist:item=1097616550&perks=3643424744,4049631843#notes:End Game PvE. End game perks here combined with smg champion mod in Witch Queen could make this viable.
+dimwishlist:item=1097616550&perks=1820235745,3425386926#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs really well with rampage.
+
+// Multimach CCX
+dimwishlist:item=3717177717&perks=1359896290,4049631843#notes:Generic PvE. One for All is a decent damage boost, and Dynamic Sway will help rein in the stability.Temporarily, this one could be end game worthy while there is a submachine gun champion mod.
+dimwishlist:item=3717177717&perks=2450788523,11551321#notes:Generic PvE. Iron Grip will help rein in the stability, and Killing Wind compliments a lightweight frame smg pretty well.Temporarily, this one could be end game worthy while there is a submachine gun champion mod.
 
 // Stochastic Variable
-//dimwishlist:item=1097616550&perks=
-//https://destinytracker.com/destiny-2/db/items/2272470786?perks=1458010786,1482024992,1885400500,2779035018,2458213969,208045062,1334978104,384158423,0,905869860
+dimwishlist:item=2272470786&perks=2779035018,2458213969#notes:Generic PvE. Playing with this roll is a blast. Max out stability.
+dimwishlist:item=2272470786&perks=2387244414,3511092054#notes:Generic PvE. Between void 3.0 and a submachine gun champion mod in Witch Queen, this could be a roll to keep an eye on for end game content.
 
 //******************************
 // Swords
 //******************************
 
 // Crown-Splitter
-dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
+dimwishlist:item=2782325302&perks=1749209109,1546637391#notes:Generic PvE. Legendary swords aren't great for end game content. Vorpal adds viability for generic boss dps.
+
+// Falling Guillotine
+dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Generic PvE. Even though Whirlwind Blade got a nerf in the 30th Anniversary, this is the only roll really worth having.
 
 // Half-Truths
-dimwishlist:item=3257091166&perks=3666208348,2349202967,1749209109,2077819806
+dimwishlist:item=3257091166&perks=1749209109,2077819806#notes:Generic PvE. Legendary swords aren't great for end game content. For this one, I've got two words: Eager Edge.
 
 // Hero of Ages
-dimwishlist:item=2139640995&perks=3666208348,269888150,1749209109,2396489472
+dimwishlist:item=2139640995&perks=1749209109,2396489472#notes:Generic PvE. Probably not super useful in End Game, but Chain Reaction on a sword is bonkers.
 
 // The Other Half
-dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,1546637391
+dimwishlist:item=3257091167&perks=1749209109,1546637391#notes:Generic PvE. Legendary swords aren't great for end game content. Vorpal adds viability for generic boss dps.
+
+// Zephyr
+dimwishlist:item=3400256755&perks=1749209109,3650930298#notes:Generic PvE. Legendary swords aren't great for end game content. Cold Front is unique to this weapon.
 
 //******************************
 // Trace Rifles
 //******************************
 
 // Retraced Path
-dimwishlist:item=548958835&perks=4090651448,732557052,1428297954,2610012052
-dimwishlist:item=548958835&perks=3661387068,732557052,1820235745,3523296417
+dimwishlist:item=548958835&perks=1820235745,3523296417#notes:Generic PvE. Subsistence is always a good time in lower difficulty content.
+dimwishlist:item=548958835&perks=1428297954,4049631843#notes:End Game PvE. One for All is a decent damage boost, and perpetual motion makes this thing a stability monster.
+
+//******************************
+// Fusion Rifles
+//******************************
+
+// Cartesian Coordinate
+dimwishlist:item=2481881293&perks=1556840489,1546637391#notes:End Game PvE, for now. Probably drops back to generic PvE usage once Particle Deconstruction goes away with Witch Queen.
+
+// Null Composure
+dimwishlist:item=1644680957&perks=2779035018,1427256713#notes:Generic PvE. Curated roll. Really solid with Particle Deconstruction, but Reservoir Burst should help stay somewhat viable in Witch Queen.
