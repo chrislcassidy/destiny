@@ -29,6 +29,11 @@ dimwishlist:item=602618796&perks=4071163871,1774574192#notes:End Game PvE, possi
 // Seventh Seraph Carbine
 dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:Generic PvE. Feels good, but meh. Could go well with a warmind cell build.
 
+// Sorrow's Verse
+dimwishlist:item=2496875173&perks=2387244414,4104185692#notes:End Game PvE, possibly. Auto rifle champion mod in Witch Queen and End Game perks could make this viable in harder content.
+dimwishlist:item=2496875173&perks=2387244414,4049631843#notes:End Game PvE, possibly. Auto rifle champion mod in Witch Queen and End Game perks could make this viable in harder content.
+dimwishlist:item=2496875173&perks=1820235745,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
+
 // The Last Breath
 dimwishlist:item=507038823&perks=1359896290,4104185692#notes:End Game PvE perks. Questionable effectiveness.
 dimwishlist:item=507038823&perks=3523296417,11612903#notes:Generic PvE. Great for grenade focused builds.
@@ -70,6 +75,11 @@ dimwishlist:item=3472875143&perks=951095735,4104185692#notes:End Game PvE. This 
 // Berenger's Memory
 dimwishlist:item=407621213&perks=2284787283,3523296417#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades and instantly reloading by throwing a grenade keeps the dps going. You really want Spike Grenades for this roll, because the main purpose is dps. That being said, you're probably better off with a sword or rocket launcher for dps. I see grenade launchers as more useful in clearing groups of trash enemies, and a launcher that can roll Chain Reaction is better for
 
+// Canis Major
+dimwishlist:item=2066434718&perks=2869569095,2396489472#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades, but Field Prep is also a decent choice for the increased reserves and reload speed when crouching. I see grenade launchers as more useful in clearing groups of trash enemies than dps weapons. For that reason, Chain Reaction is an excellent perk for clearing a room. If you must use it for dps, you want Vorpal, Clown Cartridge, and Spike Grenades.
+dimwishlist:item=2066434718&perks=2284787283,2396489472#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades, but Field Prep is also a decent choice for the increased reserves and reload speed when crouching. I see grenade launchers as more useful in clearing groups of trash enemies than dps weapons. For that reason, Chain Reaction is an excellent perk for clearing a room. If you must use it for dps, you want Vorpal, Clown Cartridge, and Spike Grenades.
+dimwishlist:item=2066434718&perks=2284787283,1546637391#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades, but Field Prep is also a decent choice for the increased reserves and reload speed when crouching. I see grenade launchers as more useful in clearing groups of trash enemies than dps weapons. For that reason, Chain Reaction is an excellent perk for clearing a room. If you must use it for dps, you want Vorpal, Clown Cartridge, and Spike Grenades.
+
 //******************************
 // Hand Cannons
 //******************************
@@ -77,7 +87,6 @@ dimwishlist:item=407621213&perks=2284787283,3523296417#notes:Generic PvE. Clown 
 // Annual Skate
 dimwishlist:item=6857689&perks=3400784728,1954620775#notes:Generic PvE. Timed Payload and explosive payload are two of the best hand cannon perks. Beat pairing here is probably triple tap to keep extra rounds in the mag.
 dimwishlist:item=6857689&perks=1168162263,2848615171#notes:Generic PvE. Dragonfly is fun, and since we're trying to proc Dragonfly with precision kills we might as well have Outlaw on it for the super fast reload.
-dimwishlist:item=6857689&perks=1168162263,2848615171#notes:Generic PvE. If Outlaw and Dragonfly are both available on a gun, I'm going to want that roll.
 
 // Bottom Dollar
 dimwishlist:item=1046651176&perks=247725512,3038247973#notes:Generic PvE. Potentially End Game capable. Timed Payload and explosive payload are two of the best hand cannon perks. Just like with scout rifles, Rapid Hit is a great pairing with it.
@@ -135,6 +144,14 @@ dimwishlist:item=2434225986&perks=2869569095,3108830275#notes:Generic PvE. Machi
 // BxR-55 Battler
 dimwishlist:item=2708806099&perks=1428297954,454085387#notes:Generic PvE. Only weapon with Blunt Execution Rounds. Perpetual Motion makes this gun feel real good.
 dimwishlist:item=2708806099&perks=3523296417,11612903#notes:Generic PvE. Great for grenade focused builds.
+
+// Darkest Before
+dimwishlist:item=2481758391&perks=3436462433,3592538738#notes:Generic PvE. Wellspring and Surplus work really well together, but this one's viability exists outside of End Game content.
+dimwishlist:item=2481758391&perks=3643424744,4049631843#notes:End Game PvE perks. Questionable effectiveness.
+dimwishlist:item=2481758391&perks=1820235745,3425386926#notes:Generic PvE. Subsistence is always a good time in lower difficulty content and pairs really well with rampage.
+dimwishlist:item=2481758391&perks=1820235745,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
+dimwishlist:item=2481758391&perks=3643424744,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
+dimwishlist:item=2481758391&perks=3436462433,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
 
 // Legal Action II
 dimwishlist:item=3409645497&perks=2450788523,1774574192#notes:Generic PvE. Don't love this one, but it could potentially get some higher end play with Osmosis for Match Game.
@@ -198,6 +215,10 @@ dimwishlist:item=3242168339&perks=247725512,3038247973#notes:End Game PvE. Rapid
 // Shotguns
 //******************************
 
+// A Sudden Death
+dimwishlist:item=2855157553&perks=2869569095,2679249093#notes:Generic PvE, unless you have a broken build like the Titan hammer build or the Hunter combination blow build. With a huge damage melee build this could easily be end game worthy.
+dimwishlist:item=2855157553&perks=2869569095,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
+
 // Fractethyst
 dimwishlist:item=3184681056&perks=1556840489,2360754333#notes:Meh. Not a ton of good perks here.
 
@@ -211,6 +232,9 @@ dimwishlist:item=1679868061&perks=1556840489,2679249093#notes:Generic PvE, unles
 //******************************
 // Sidearms
 //******************************
+
+// A Swift Verdict
+dimwishlist:item=1626503676&perks=3436462433,3592538738#notes:Generic PvE. Wellspring and Surplus work really well together, but this one's viability exists outside of End Game content.
 
 // Brass Attacks
 dimwishlist:item=2121785039&perks=247725512,4049631843#notes:End Game PvE perks. Questionable effectiveness.
@@ -240,6 +264,20 @@ dimwishlist:item=2588048270&perks=3436462433,1774574192#notes:Generic PvE. Oh lo
 
 // 1000 Yard Stare
 dimwishlist:item=4164201232&perks=3400784728,3513791699#notes:I don't know. It's a sniper. This build is aimed at trying to conserve ammo. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+
+// The Long Walk
+dimwishlist:item=3326850591&perks=3643424744,4104185692#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=3326850591&perks=2284787283,4104185692#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=3326850591&perks=1168162263,4104185692#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+
+//******************************
+// Special Grenade Launchers
+//******************************
+
+// Pardon Our Dust
+dimwishlist:item=3849810018&perks=972757866,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that
+dimwishlist:item=3849810018&perks=3300816228,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that
+dimwishlist:item=3849810018&perks=2010801679,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that
 
 //******************************
 // Submachine Guns
@@ -294,6 +332,10 @@ dimwishlist:item=548958835&perks=1428297954,4049631843#notes:End Game PvE. One f
 
 // Cartesian Coordinate
 dimwishlist:item=2481881293&perks=1556840489,1546637391#notes:End Game PvE, for now. Probably drops back to generic PvE usage once Particle Deconstruction goes away with Witch Queen.
+
+// Iota Draconis
+dimwishlist:item=3044460004&perks=1556840489,4104185692#notes:Endgame PvE perks. Overall dps is lower than rapid fire fusions while Particle Deconstruction is around, and might still be in WQ. Not crazy about this gun.
+dimwishlist:item=3044460004&perks=1556840489,1754714824#notes:Generic PvE. Overall dps is lower than rapid fire fusions while Particle Deconstruction is around, and might still be in WQ. Not crazy about this gun. Kickstart on this should help this feel better by reducing charge time, but it
 
 // Null Composure
 dimwishlist:item=1644680957&perks=2779035018,1427256713#notes:Generic PvE. Curated roll. Really solid with Particle Deconstruction, but Reservoir Burst should help stay somewhat viable in Witch Queen.
