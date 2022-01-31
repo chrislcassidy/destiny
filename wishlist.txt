@@ -270,6 +270,14 @@ dimwishlist:item=3326850591&perks=3643424744,4104185692#notes:End Game PvE perks
 dimwishlist:item=3326850591&perks=2284787283,4104185692#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
 dimwishlist:item=3326850591&perks=1168162263,4104185692#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
 
+// Uzume RR4
+dimwishlist:item=2065081837&perks=2284787283,3038247973#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=2065081837&perks=3400784728,3038247973#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=2065081837&perks=1556840489,3038247973#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=2065081837&perks=2284787283,1546637391#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=2065081837&perks=1556840489,1546637391#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:End Game PvE perks, but it's a sniper. If you really need a sniper for dps, just use D.A.R.C.I. or Whisper of the Worm.
+
 //******************************
 // Special Grenade Launchers
 //******************************
@@ -339,3 +347,6 @@ dimwishlist:item=3044460004&perks=1556840489,1754714824#notes:Generic PvE. Overa
 
 // Null Composure
 dimwishlist:item=1644680957&perks=2779035018,1427256713#notes:Generic PvE. Curated roll. Really solid with Particle Deconstruction, but Reservoir Burst should help stay somewhat viable in Witch Queen.
+
+// PLUG ONE.1
+dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:Generic PvE. Post Particle Deconstruction, this will just be a generic use fusion. It does have great stats amongst fusions, and these are the best 2 perks on it.
