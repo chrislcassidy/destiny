@@ -260,10 +260,10 @@ dimwishlist:item=378498222&perks=3643424744,4104185692#notes:End Game PvE perks.
 dimwishlist:item=378498222&perks=3643424744,3108830275#notes:End Game PvE perks. Questionable effectiveness. Max out stability to make this one feel really good.
 
 // Spoiler Alert
-dimwishlist:item=2588048270&perks=4071163871,1774574192#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don
-dimwishlist:item=2588048270&perks=1645158859,1774574192#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don
-dimwishlist:item=2588048270&perks=4071163871,4104185692#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don
-dimwishlist:item=2588048270&perks=1645158859,4104185692#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don
+dimwishlist:item=2588048270&perks=4071163871,1774574192#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don't think the weapon itself is special enough to warrant play at really any level unless semi automatic sidearms are your thing.
+dimwishlist:item=2588048270&perks=1645158859,1774574192#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don't think the weapon itself is special enough to warrant play at really any level unless semi automatic sidearms are your thing.
+dimwishlist:item=2588048270&perks=4071163871,4104185692#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don't think the weapon itself is special enough to warrant play at really any level unless semi automatic sidearms are your thing.
+dimwishlist:item=2588048270&perks=1645158859,4104185692#notes:Generic PvE. Frenzy and Osmosis (Match Game) are end game perks, but column 3 kind of sucks for end game. The best options are Threat Detector or Under Pressure, though Threat Detector takes preference. I don't think the weapon itself is special enough to warrant play at really any level unless semi automatic sidearms are your thing.
 
 //******************************
 // Sniper Rifles
@@ -290,9 +290,9 @@ dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:End Game PvE perks
 //******************************
 
 // Pardon Our Dust
-dimwishlist:item=3849810018&perks=972757866,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that
-dimwishlist:item=3849810018&perks=3300816228,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that
-dimwishlist:item=3849810018&perks=2010801679,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that
+dimwishlist:item=3849810018&perks=972757866,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that's to disorient enemies with Blinding Grenades to buy some breathing room. Builds here are focused on getting free reloads or getting an additional round in the magazine.
+dimwishlist:item=3849810018&perks=3300816228,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that's to disorient enemies with Blinding Grenades to buy some breathing room. Builds here are focused on getting free reloads or getting an additional round in the magazine.
+dimwishlist:item=3849810018&perks=2010801679,3523296417#notes:Endgame PvE, IF it has Blinding Grenades. Special Grenade Launchers have only one purpose and that's to disorient enemies with Blinding Grenades to buy some breathing room. Builds here are focused on getting free reloads or getting an additional round in the magazine.
 
 //******************************
 // Submachine Guns
@@ -340,7 +340,7 @@ dimwishlist:item=3400256755&perks=1749209109,3650930298#notes:Generic PvE. Legen
 // Retraced Path
 dimwishlist:item=548958835&perks=1820235745,3523296417#notes:Generic PvE. Subsistence is always a good time in lower difficulty content.
 dimwishlist:item=548958835&perks=1428297954,4049631843#notes:End Game PvE. One for All is a decent damage boost, and perpetual motion makes this thing a stability monster.
-dimwishlist:item=548958835&perks=1428297954,4104185692#notes:End Game PvE. Frenzy buffs damage slightly less than One for All, but it
+dimwishlist:item=548958835&perks=1428297954,4104185692#notes:End Game PvE. Frenzy buffs damage slightly less than One for All, but it's much easier to proc and provides additional performance boosts. Perpetual Motion makes this thing a stability monster.
 
 //******************************
 // Fusion Rifles
@@ -351,7 +351,7 @@ dimwishlist:item=2481881293&perks=1556840489,1546637391#notes:End Game PvE, for 
 
 // Iota Draconis
 dimwishlist:item=3044460004&perks=1556840489,4104185692#notes:Endgame PvE perks. Overall dps is lower than rapid fire fusions while Particle Deconstruction is around, and might still be in WQ. Not crazy about this gun.
-dimwishlist:item=3044460004&perks=1556840489,1754714824#notes:Generic PvE. Overall dps is lower than rapid fire fusions while Particle Deconstruction is around, and might still be in WQ. Not crazy about this gun. Kickstart on this should help this feel better by reducing charge time, but it
+dimwishlist:item=3044460004&perks=1556840489,1754714824#notes:Generic PvE. Overall dps is lower than rapid fire fusions while Particle Deconstruction is around, and might still be in WQ. Not crazy about this gun. Kickstart on this should help this feel better by reducing charge time, but it'll be awkward to try to proc during a boss fight. By the time you've sprinted and slid, you could probably already have fired again. Not crazy about this gun.
 
 // Null Composure
 dimwishlist:item=1644680957&perks=2779035018,1427256713#notes:Generic PvE. Curated roll. Really solid with Particle Deconstruction, but Reservoir Burst should help stay somewhat viable in Witch Queen.
