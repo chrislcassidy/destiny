@@ -98,6 +98,11 @@ dimwishlist:item=235827225&perks=2846385770,124408337#notes:End Game PvE. Excell
 dimwishlist:item=235827225&perks=247725512,124408337#notes:End Game PvE. Excellent synergy with stasis subclasses. While Rapid Hit is good for stability and reload, Rangefinder is good for increasing effective range for just aiming down the sights.
 dimwishlist:item=235827225&perks=1168162263,124408337#notes:End Game PvE. Excellent synergy with stasis subclasses. Since we're targeting precision kills for Headstone we might as well have Outlaw on it for the super fast reload.
 
+// Frontier's Cry
+dimwishlist:item=1141547457&perks=1583705720,4049631843
+dimwishlist:item=1141547457&perks=1048183818,4049631843
+dimwishlist:item=1141547457&perks=247725512,4049631843
+
 // Igneous Hammer
 dimwishlist:item=2351180975&perks=247725512,4049631843#notes:End Game PvE perks. Questionable effectiveness, although this gun has a pretty good feel to it.
 dimwishlist:item=2351180975&perks=3643424744,4049631843#notes:End Game PvE perks. Questionable effectiveness, although this gun has a pretty good feel to it.
@@ -165,6 +170,9 @@ dimwishlist:item=2481758391&perks=1820235745,3511092054#notes:Generic PvE. With 
 dimwishlist:item=2481758391&perks=3643424744,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
 dimwishlist:item=2481758391&perks=3436462433,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Subsistence is great on Auto Rifles.
 
+// Forge's Pledge
+dimwishlist:item=1076810832&perks=1583705720,4049631843
+
 // Gridskipper
 dimwishlist:item=1621558458&perks=2039302152,4104185692#notes:Generic PvE. Frenzy is an end game perk, but column 3 doesn't offer much here.
 
@@ -190,6 +198,14 @@ dimwishlist:item=3593598010&perks=1645158859,11551321#notes:Generic PvE. Iron Gr
 
 // Ascendancy
 dimwishlist:item=725408022&perks=2010801679,3194351027#notes:End Game PvE. Curated roll. One of the best legendary rocket launchers available. If Bungie follows the pattern of the past few seasons, Witch Queen should have an artifact mod or 2 that will make this even better.
+
+// Roar of the Bear
+dimwishlist:item=4009352833&perks=3977735242,3927722942
+dimwishlist:item=4009352833&perks=3977735242,1546637391
+dimwishlist:item=4009352833&perks=3977735242,3300816228
+dimwishlist:item=4009352833&perks=2869569095,3300816228
+dimwishlist:item=4009352833&perks=2869569095,3927722942
+dimwishlist:item=4009352833&perks=2869569095,1546637391
 
 // The Hothead
 dimwishlist:item=4255171531&perks=3977735242,2284787283#notes:End Game PvE. Potential dps viability alongside a Gjallarhorn user.
@@ -248,6 +264,9 @@ dimwishlist:item=3184681056&perks=1556840489,2360754333#notes:Meh. Not a ton of 
 // Matador 64
 dimwishlist:item=2563012876&perks=1556840489,2679249093#notes:Generic PvE, unless you have a broken build like the Titan hammer build or the Hunter combination blow build. With a huge damage melee build this could easily be end game worthy.
 
+// Riiswalker
+dimwishlist:item=108221785&perks=2039302152,591790007
+
 // Wastelander M5
 dimwishlist:item=1679868061&perks=1820235745,2450788523#notes:Generic PvE. Subsistence on a shotgun is super fun for cleaning up trash.
 dimwishlist:item=1679868061&perks=1556840489,2679249093#notes:Generic PvE, unless you have a broken build like the Titan hammer build or the Hunter combination blow build. With a huge damage melee build this could easily be end game worthy.
@@ -258,6 +277,11 @@ dimwishlist:item=1679868061&perks=1556840489,2679249093#notes:Generic PvE, unles
 
 // A Swift Verdict
 dimwishlist:item=1626503676&perks=3436462433,3592538738#notes:Generic PvE. Wellspring and Surplus work really well together, but this one's viability exists outside of End Game content.
+
+// Allied Demand
+dimwishlist:item=1532276803&perks=247725512,4104185692
+dimwishlist:item=1532276803&perks=2846385770,2458213969#notes:PvP roll
+dimwishlist:item=1532276803&perks=247725512,2458213969#notes:PvP roll
 
 // Brass Attacks
 dimwishlist:item=2121785039&perks=247725512,4049631843#notes:End Game PvE perks. Questionable effectiveness.
@@ -347,9 +371,17 @@ dimwishlist:item=1097616550&perks=1820235745,3425386926#notes:Generic PvE. Subsi
 dimwishlist:item=3717177717&perks=1359896290,4049631843#notes:Generic PvE. One for All is a decent damage boost, and Dynamic Sway will help rein in the stability.Temporarily, this one could be end game worthy while there is a submachine gun champion mod.
 dimwishlist:item=3717177717&perks=2450788523,11551321#notes:Generic PvE. Iron Grip will help rein in the stability, and Killing Wind compliments a lightweight frame smg pretty well.Temporarily, this one could be end game worthy while there is a submachine gun champion mod.
 
+// Out of Bounds
+dimwishlist:item=2988121501&perks=3523296417,11612903
+dimwishlist:item=2988121501&perks=4071163871,3708227201
+dimwishlist:item=2988121501&perks=1631667848,4082225868
+
 // Stochastic Variable
 dimwishlist:item=2272470786&perks=2779035018,2458213969#notes:Generic PvE. Playing with this roll is a blast. Max out stability.
 dimwishlist:item=2272470786&perks=2387244414,3511092054#notes:Generic PvE. Between void 3.0 and a submachine gun champion mod in Witch Queen, this could be a roll to keep an eye on for end game content.
+
+// The Hero's Burden
+dimwishlist:item=2488587246&perks=2779035018,11551321
 
 //******************************
 // Swords
@@ -366,6 +398,9 @@ dimwishlist:item=3257091166&perks=1749209109,2077819806#notes:Generic PvE. Legen
 
 // Hero of Ages
 dimwishlist:item=2139640995&perks=1749209109,2396489472#notes:Generic PvE. Probably not super useful in End Game, but Chain Reaction on a sword is bonkers.
+
+// Razor's Edge
+dimwishlist:item=1796949035&perks=1749209109,2396489472
 
 // The Other Half
 dimwishlist:item=3257091167&perks=1749209109,1546637391#notes:Generic PvE. Legendary swords aren't great for end game content. Vorpal adds viability for generic boss dps.
@@ -398,3 +433,7 @@ dimwishlist:item=1644680957&perks=2779035018,1427256713#notes:Generic PvE. Curat
 
 // PLUG ONE.1
 dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:Generic PvE. Post Particle Deconstruction, this will just be a generic use fusion. It does have great stats amongst fusions, and these are the best 2 perks on it.
+
+// The Wizened Rebuke
+dimwishlist:item=1999697514&perks=1820235745,2652708987
+dimwishlist:item=1999697514&perks=1645158859,1600092898#notes:PvP roll
