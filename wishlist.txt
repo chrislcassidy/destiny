@@ -451,6 +451,12 @@ dimwishlist:item=1644680957&perks=2779035018,1427256713#notes:Generic PvE. Curat
 // PLUG ONE.1
 dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:Generic PvE. Post Particle Deconstruction, this will just be a generic use fusion. It does have great stats amongst fusions, and these are the best 2 perks on it.
 
+// SNORRI FR5
+dimwishlist:item=4114929480&perks=1583705720,4049631843
+dimwishlist:item=4114929480&perks=1570042021,2652708987
+dimwishlist:item=4114929480&perks=1583705720,4104185692
+dimwishlist:item=4114929480&perks=1583705720,1427256713
+
 // The Wizened Rebuke
 dimwishlist:item=1999697514&perks=1820235745,2652708987
 dimwishlist:item=1999697514&perks=1645158859,1600092898#notes:PvP roll
