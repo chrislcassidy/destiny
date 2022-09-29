@@ -90,6 +90,11 @@ dimwishlist:item=2066434718&perks=2869569095,2396489472#notes:Generic PvE. Clown
 dimwishlist:item=2066434718&perks=2284787283,2396489472#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades, but Field Prep is also a decent choice for the increased reserves and reload speed when crouching. I see grenade launchers as more useful in clearing groups of trash enemies than dps weapons. For that reason, Chain Reaction is an excellent perk for clearing a room. If you must use it for dps, you want Vorpal, Clown Cartridge, and Spike Grenades.
 dimwishlist:item=2066434718&perks=2284787283,1546637391#notes:Generic PvE. Clown Cartridge is great for firing a stupid number of grenades, but Field Prep is also a decent choice for the increased reserves and reload speed when crouching. I see grenade launchers as more useful in clearing groups of trash enemies than dps weapons. For that reason, Chain Reaction is an excellent perk for clearing a room. If you must use it for dps, you want Vorpal, Clown Cartridge, and Spike Grenades.
 
+// Typhon GL5
+dimwishlist:item=3568377122&perks=1583705720,4049631843
+dimwishlist:item=3568377122&perks=3523296417,11612903
+dimwishlist:item=3568377122&perks=951095735,2978966579
+
 //******************************
 // Hand Cannons
 //******************************
