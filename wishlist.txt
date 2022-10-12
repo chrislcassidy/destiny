@@ -398,6 +398,28 @@ dimwishlist:item=4281371574&perks=1820235745,3824105627#notes:Generic PvE.  Sinc
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles.
 dimwishlist:item=3504336176&perks=3643424744,3038247973#notes:End Game PvE. Rapid hit with explosive payload is pretty much the go to for scout rifles, but Overflow is a decent end game substitute for Rapid Hit. This is even better with Witch Queen featuring a scout rifle champion mod.
 
+// Perses-D
+dimwishlist:item=1019000888&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=1019000888&perks=1392496348,3142289711,247725512,3038247973
+dimwishlist:item=1019000888&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=1019000888&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=1019000888&perks=1392496348,106909392,247725512,124408337
+dimwishlist:item=1019000888&perks=1392496348,3142289711,247725512,124408337
+dimwishlist:item=1019000888&perks=1392496348,3177308360,247725512,124408337
+dimwishlist:item=1019000888&perks=1392496348,3230963543,247725512,124408337
+dimwishlist:item=1019000888&perks=1392496348,106909392,247725512,1546637391
+dimwishlist:item=1019000888&perks=1392496348,3142289711,247725512,1546637391
+dimwishlist:item=1019000888&perks=1392496348,3177308360,247725512,1546637391
+dimwishlist:item=1019000888&perks=1392496348,3230963543,247725512,1546637391
+dimwishlist:item=1019000888&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=1019000888&perks=1392496348,3142289711,1583705720,4049631843
+dimwishlist:item=1019000888&perks=1392496348,3177308360,1583705720,4049631843
+dimwishlist:item=1019000888&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=1019000888&perks=247725512,3038247973
+dimwishlist:item=1019000888&perks=247725512,124408337
+dimwishlist:item=1019000888&perks=247725512,1546637391
+dimwishlist:item=1019000888&perks=1583705720,4049631843
+
 // Pleiades Corrector
 dimwishlist:item=3556999246&perks=1168162263,3511092054#notes:Generic PvE. With void 3.0 coming in Witch Queen, I am going to hang on to at least one Elemental Capacitor roll for weapons that have it to get that sweet stability boost. Outlaw is good on just about any weapon.
 dimwishlist:item=3556999246&perks=3096702027,3275789089#notes:Generic PvE. Maybe End Game in a Solar match game situation. This roll is completely about breaking solar shields.
